@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Pop Movie</string>
+    <string name="welcome_pop_movie">Welcome to Pop Movie!</string>
+    <string name="sort_by_top_rated">Sort by Top Rated</string>
+    <string name="sort_by_popular">Sort by Popular</string>
+    <string name="sort_by_favorite">Sort by Favorite</string>
+    <string name="favorite">Mark as Favorite</string>
+    <string name="trailer">Trailer</string>
+    <string name="readReview">Read Review</string>
+    <string name="connecting">Connecting...</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_result">No result found</string>
+    <string name="no_favorite">No favorite movie found</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <string name="activity_image_trans" translatable="false">activity image transition</string>
+    <string name="activity_title_trans" translatable="false">activity title transition</string>
+</resources>

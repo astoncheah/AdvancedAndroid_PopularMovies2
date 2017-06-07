@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "F:\\BackupDrive\\AndroidStudioProjects\\AdvancedAndroid_PopularMovies2\\PopularMovies\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    }
+]
